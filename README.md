@@ -80,8 +80,12 @@ knowledge/
 │   ├── interview-questions.md
 │   └── system-design-cases.md
 │
-└── 08-diagrams/                 ← 🎨 9 editable .excalidraw visual maps
-    └── README.md  + 01…09 diagram files
+├── 08-diagrams/                 ← 🎨 9 editable .excalidraw visual maps
+│   └── README.md  + 01…09 diagram files
+│
+└── 09-ai-interview-platform/    ← 🏗️ case study: agentic AI interview platform
+    ├── ai-interview-platform-blueprint.md   (market + architecture + PoC)
+    └── diagrams/  + 01…10 .excalidraw files
 ```
 
 ---
